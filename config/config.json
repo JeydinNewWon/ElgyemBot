@@ -1,0 +1,7 @@
+{
+    "owner_id": "",
+    "bot_token": "",
+    "command_prefix": "e.",
+    "fail_emoji": ":no_entry_sign:",
+    "success_emoji": ":white_check_mark:"
+}
